@@ -5,4 +5,4 @@ The datasets used to train and test the models are manually curated and contains
 
 Code used to train, optimise, test and evaluate the 5 models are implemented on Google colab found here: https://colab.research.google.com/drive/1eADQlO9FGNBksfZN0iPushp-ZB06vZAK?usp=sharing
 
-**This project is a collaborative effort between Amanda Ho, Amos Chan, Daniel Chan, Hemanshu Ghandi, Matthew Lee and Tiana Chen. **
+**This project is a collaborative effort between Amanda Ho, Amos Chan, Daniel Chan, Hemanshu Ghandi, Matthew Lee and Tiana Chen.**
